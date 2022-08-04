@@ -1,0 +1,14 @@
+[17-Dec-2017 00:00:24 UTC] PHP Notice:  Undefined variable: abc in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 195
+[18-Dec-2017 14:14:03 UTC] PHP Notice:  Undefined index: search in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 173
+[18-Dec-2017 14:14:03 UTC] PHP Notice:  Undefined variable: abc in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 190
+[19-Dec-2017 14:09:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 204
+[19-Dec-2017 14:09:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 220
+[19-Dec-2017 14:10:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 204
+[19-Dec-2017 14:10:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 220
+[20-Dec-2017 08:34:14 UTC] PHP Notice:  Undefined variable: abc in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 190
+[28-Dec-2017 11:03:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 204
+[28-Dec-2017 11:03:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 220
+[28-Dec-2017 12:25:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 204
+[28-Dec-2017 12:25:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 220
+[28-Dec-2017 19:30:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 204
+[28-Dec-2017 19:30:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rkadvertisers/public_html/couponshope.com/store/index.php on line 220

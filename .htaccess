@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^couponshope\.com$ [NC]
+RewriteRule ^(.*)$ http://www.couponshope.com/$1 [R=301,L]
+
+
+ErrorDocument 404 http://www.couponshope.com
+
+#RewriteRule ^index\.php http://www.couponshope/ [R=permanent,L,NC]
+
+
+
+
+
+ RewriteRule ^brands/([0-9a-zA-Z]+)  brands.php?st=$1 [NC,L] 
+
+ 
+
+RewriteRule ^categories/([0-9a-zA-Z]+)  categories.php?categ=$1 [NC,L]

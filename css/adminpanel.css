@@ -1,0 +1,227 @@
+#@charset "utf-8";
+/* CSS Document */
+
+#text{
+	width:100%;
+	height:auto;
+	color:black;
+	text-align:center;
+	font-size:18px;
+	margin:10px 0;
+	text-shadow:1px 1px 1px black;
+	}	
+#result{
+	width:100%;
+	text-align:center;
+	color:red;
+	font-size:24px;
+	padding:0px 20%;
+	marquee-speed:fast;
+	text-align:center;
+	}
+
+#maindiv{
+	width:100%;
+	overflow:hidden;
+	margin-top:-10px;
+	
+	}	
+#slider{
+	width:1100%;
+	height:100%;
+	position:relative;
+	
+	}	
+.slides{
+	width:9.09%;
+	height:100%;
+	float:left;
+	padding:10px;
+	background-color:#CCCCCC;
+	}	
+#slide1{
+	height:400px;
+	}	
+#slide2{
+	}	
+#addstore,#addcategory{
+	width:100%;
+	padding:10px;
+	}	
+#buttons{
+	
+	width:100%;
+	padding:10px;
+	padding-top:0;
+	padding-bottom:0;
+	}	
+.buttons{
+	width:10%;
+	height:60%;
+	padding:20px 10px;
+	padding-bottom:0;
+	padding-top:5px;
+	float:left;
+	}
+.buttons div{
+	width:100%;
+	text-align:center;
+	padding:10px;
+	border-radius:10px;
+	height:100%;
+	font-weight:bold;
+	color:white;
+	text-shadow:1px 1px 1px black;
+	font-size:12px;
+	cursor:pointer;
+	}
+#add_store,#add_coupon,#add_category,#add_blog{
+	background-color:#1A0B61;
+	height:50px;
+	padding:15px;
+}
+#add_store:hover,#add_coupon:hover,#add_category:hover,#add_blog:hover{
+	background-color:#3217C6;
+	
+	}
+#del_store,#del_coupon,#del_category,#del_blog{
+	color:white;
+	padding:12px;
+	height:50px;
+	background-color:#00CC66;
+}
+#del_store:hover,#del_coupon:hover,#del_category:hover,#del_blog:hover{
+	background-color:#090;
+	}	
+#ed-st,#slide{
+background-color:#F30;
+height:50px;
+	padding:15px;
+}
+#slide{
+	background-color:#C09;
+	}
+
+#slide:hover{
+	background-color:#C03;
+	}	
+#ed-st:hover,#ed-coup:hover{
+	background-color:#AE0C4C;
+}
+.buttons .triangle{
+	width:80%;
+	height:50px;
+	margin-top:-10px;
+	padding-bottom:0;
+	
+	}
+.triangle img{
+	display:none;
+	}					
+				
+#addcoupon{
+	padding:10px;
+	}	
+	
+#addcoupon form{
+	width:100%;
+	}	
+	
+table{
+	width:100%;
+	}	
+th{
+	text-align:center;
+	color:#0000CC;
+	padding:10px;
+	font-size:18px;
+	}	
+tr{
+	width:100%;
+	color:#0000CC;
+	}	
+td{
+	width:25%;
+	text-align:right;
+	padding:5px;
+	font-size:16px;
+	color:#0000CC;
+	}	
+input:focus{
+
+	}	
+input,textarea,select{
+	border:1px solid gray;
+	border-radius:5px;
+	text-decoration:none;
+	float:left;
+	text-align:center;
+	color:#1C2A33;
+	}	
+#img{
+	color:#0000CC;
+	}	
+#submit{
+	width:100%;
+	padding:5px;
+	color:white;
+	padding:10px 46%;
+	}	
+#addstore{
+	width:100%;
+	padding:10px;
+	}	
+h2 #message{
+	width:100%;
+	color:red;
+	text-align:center;
+	background-color:none;
+	}	
+#wrapper{
+	width:100%;
+	
+padding-bottom:10px;
+height:400px;
+	}	
+#head{
+	width:100%;
+	height:60px;
+	background-color:#00CCFF;
+	font-size:26px;
+	color:white;
+	text-shadow:1px 1px 1px black;
+	font-weight:bold;
+	font-style:italic;
+	}	
+#login_head{
+	width:100%;
+	background-color:#1C2A33;
+	height:100px;
+	font-size:32px;
+	color:#19CEAB;
+	padding:25px 10px;
+	font-weight:bold;
+	}	
+#login_form{
+	width:100%;
+	height:100%;
+	padding:10px;
+	padding-top:60px;
+	background-color:white;
+	}	
+#login_form form{
+	width:30%;
+	margin:0 auto;
+	}	
+#login_form form table td{
+	
+	padding:10px;
+	}
+#login_form form table td input{
+	outline:0;
+	}			
+label{
+	color:#19CEAB;
+	width:100%;
+	text-align:center;
+	}	
